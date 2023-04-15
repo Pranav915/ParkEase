@@ -4,7 +4,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 
 // const url = "https://wild-button-fuschia.glitch.me/api";
 
-const url = "http://10.250.12.202:5000/api";
+const url = "http://10.212.11.117:5000/api";
 
 const apiClient = axios.create({
   baseURL: url,
